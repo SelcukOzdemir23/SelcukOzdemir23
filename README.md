@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SelcukOzdemir23
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Python,Data Science,Data Analysis, Pandas,Numpy,Visualizition
+- 🌱 I’m currently learning Machine Learning, PowerBI, Deep Learning, Big Data
 - 📝 My personal page https://muserrefselcukozdemir.carrd.co/
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SelcukOzdemir23&show_icons=true&theme=dark&locale=en" alt="SelcukOzdemir23" width="50%" /></p>
