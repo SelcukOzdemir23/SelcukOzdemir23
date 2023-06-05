@@ -13,7 +13,7 @@
 </p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SelcukOzdemir237&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=SelcukOzdemir23&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SelcukOzdemir23&theme=radical&no-frame=false&no-bg=false&margin-w=4)
