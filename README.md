@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SelcukOzdemir23
-- 👀 I’m interested in Python,Data Science,Data Analysis, Pandas,Numpy,Visualizition
-- 🌱 I’m currently learning Machine Learning, PowerBI, Deep Learning, Big Data
-- 📝 My personal page https://linktr.ee/muserrefselcukozdemir
+- 👀 I’m interested in Context Writin in the field of Python,Data Science,Data Analysis, Pandas,Numpy,Visualizition, AI, RAG, CNN,LLM
+- 🌱 I’m currently learning Machine Learning, PowerBI, Deep Learning, Big Data, RAG
+- 📝 My personal page: https://linktr.ee/muserrefselcukozdemir
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muserref-selcuk-ozdemir/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@muserrefselcuk) 
