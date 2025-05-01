@@ -1,19 +1,63 @@
-- 👋 Hi, I’m @SelcukOzdemir23
-- 👀 I’m interested in Context Writin in the field of Python,Data Science,Data Analysis, Pandas,Numpy,Visualizition, AI, RAG, CNN,LLM
-- 🌱 I’m currently learning Machine Learning, PowerBI, Deep Learning, Big Data, RAG
-- 📝 My personal page: https://linktr.ee/muserrefselcukozdemir
+# Merhaba, Ben Müşerref Selçuk Özdemir 👋
 
-## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muserref-selcuk-ozdemir/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@muserrefselcuk) 
+Yazılım geliştirme dünyasında Yeni şeyler öğrenmeyi ve projeler geliştirmeyi seviyorum.
+
+---
+
+## 🚀 Hakkımda
+
+* **Adım:** Müşerref Selçuk Özdemir
+* **Çalıştığım Şirket:** Kodland
+* **İlgi Alanlarım:** Teknik çeviri, veri bilimi, yapay zeka, makine öğrenimi, derin öğrenme, CNN, içerik üretimi
+* **Kişisel Sayfam:** [Kişisel Web Sitenizin Bağlantısı]
+* **Eğitim Hayatım:**
+    * Fırat Üniversitesi - 2019-2024 , 3.64 Ortalama
+   
+
+---
+
+## 🔧 Teknolojiler ve Diller
+
+En çok kullandığım diller ve aşina olduğum teknolojiler:
+
+* **En Çok Kullandığım Diller:**
+    * [Python]
+    * [Dart]
+    * [Java]
+
+---
+
+## 📈 GitHub İstatistiklerim
+
+[![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=SelcukOzdemir23&show_icons=true&theme=radical)](https://github.com/[kullaniciadiniz])
+
+[![En Çok Kullanılan Dillerim](https://github-readme-stats.vercel.app/api/top-langs/?username=SelcukOzdemir23&layout=compact&theme=radical)](https://github.com/[kullaniciadiniz])
+
+---
+
+## ✨ Öne Çıkan Projelerim
+
+İşte üzerinde çalıştığım veya önemli olduğunu düşündüğüm bazı projeler:
+
+* **[Proje Adı 1]:** [Proje Hakkında Kısa Açıklama]. [Depo Bağlantısı]
+* **[Proje Adı 2]:** [Proje Hakkında Kısa Açıklama]. [Depo Bağlantısı]
+* **[Proje Adı 3]:** [Proje Hakkında Kısa Açıklama]. [Depo Bağlantısı]
+* ...
+* Daha fazla projemi görmek için depolarıma göz atabilirsiniz.
+
+---
+
+---
+
+## 📫 İletişim
+
+Benimle iletişime geçmek isterseniz:
+
+* **E-posta:** [E-posta Adresiniz]
+* **LinkedIn:** [LinkedIn Profil Bağlantınız]
+* **Twitter:** [Twitter Profil Bağlantınız (varsa)]
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SelcukOzdemir23&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SelcukOzdemir23&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SelcukOzdemir23&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SelcukOzdemir23&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SelcukOzdemir23&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
