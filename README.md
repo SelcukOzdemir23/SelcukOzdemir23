@@ -125,6 +125,6 @@ This chart reflects the languages I use most across my GitHub repositories.
 
 ⭐️ From [SelcukOzdemir23](https://github.com/SelcukOzdemir23)
 
-![Profile Views](https://komarev.com/ghpvc/?username=SelcukOzdemir23&color=brightgreen)
+![Metrics](https://github.com/SelcukOzdemir23/SelcukOzdemir23/blob/main/github-metrics.svg)
 
 
