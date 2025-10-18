@@ -8,6 +8,15 @@
 ![Stars](https://img.shields.io/github/stars/SelcukOzdemir23/<YOUR_REPO>?style=social)
 ![Visitors](https://komarev.com/ghpvc/?username=SelcukOzdemir23&color=blue)
 
+---
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=<YOUR_USERNAME>&theme=gruvbox&no-frame=true&margin-w=5" alt="GitHub Trophies" />
+</p>
+
+---
+
 # 👋 Müşerref Selçuk Özdemir
 
 **Loves reading, articles and writing.**
@@ -81,11 +90,14 @@ I graduated from Fırat University with 3.64 GPA and then I started my postgradu
 ---
 
 ## ⭐ Popular Repositories
-| Repo Name                            | Description                              | ★ Stars |
-| ----------------------------------- | ---------------------------------------- | ------- |
-| [repo-one](https://github.com/yourusername/repo-one)   | Short description of repo one.           | `123`   |
-| [repo-two](https://github.com/yourusername/repo-two)   | Short description of repo two.           | `98`    |
-| [repo-three](https://github.com/yourusername/repo-three) | Short description of repo three.         | `76`    |
+<p align="center">
+  <a href="https://github.com/SelcukOzdemir23?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SelcukOzdemir23&repo=<REPO_1>&theme=transparent" />
+  </a>
+  <a href="https://github.com/<YOUR_USERNAME>?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SelcukOzdemir23&repo=<REPO_2>&theme=transparent" />
+  </a>
+</p>
 
 ---
 
