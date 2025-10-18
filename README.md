@@ -1,10 +1,10 @@
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)  
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](#)  
 [![Release](https://img.shields.io/badge/release-v1.0.0-blueviolet.svg)](#)  
-[![Stargazers](https://img.shields.io/github/stars/yourusername/yourrepo.svg?style=social)](#)  
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourrepo)](#)
+[![Stargazers](https://img.shields.io/github/stars/SelcukOzdemir23/yourrepo.svg?style=social)](#)  
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=SelcukOzdemir23.yourrepo)](#)
 
-# 👋 [Müşerref Selçuk Özdemir]
+# 👋 Müşerref Selçuk Özdemir
 
 **Loves reading, articles and writing.**
 
@@ -27,8 +27,8 @@
 ---
 
 ## 👋 About Me
-**Name:** Müşerref Selçuk Özdemir  
-**Brief Bio:** I graduated from Fırat University with 3.64 GPA and then I started my postgraduate education at Fırat University in the field of AI. During the University education I als granted acess to the Erasmus+ project in Poland at WSTI two times! I spent time with researching and exploring the country and Europe in that period.  I enjoy reading articles, writing new things and solve daily problems.   
+Müşerref Selçuk Özdemir  
+I graduated from Fırat University with 3.64 GPA and then I started my postgraduate education at Fırat University in the field of AI. During the University education I als granted acess to the Erasmus+ project in Poland at WSTI two times! I spent time with researching and exploring the country and Europe in that period.  I enjoy reading articles, writing new things and solve daily problems.   
 > I'm currenctly interested in AI, Data Science, Data Visualization, AI Agents and Content Creating. You can reach me below: 
 
 ---
