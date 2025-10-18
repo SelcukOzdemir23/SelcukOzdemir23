@@ -90,15 +90,11 @@ I’m **Müşerref Selçuk Özdemir**, a software engineer passionate about **AI
 
 ## ⭐ Popular Repositories
 <p align="center">
-  <a href="https://github.com/SelcukOzdemir23?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SelcukOzdemir23&repo=AI-Projects&theme=transparent" />
-  </a>
-  <a href="https://github.com/SelcukOzdemir23?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SelcukOzdemir23&repo=Data-Visualization&theme=transparent" />
+  <a href="https://github.com/SelcukOzdemir23">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SelcukOzdemir23&repo=SelcukOzdemir23&theme=transparent" />
   </a>
 </p>
 
-*(İstersen yukarıdaki repo adlarını güncel projelerine göre değiştirebiliriz — örneğin `AI-Agents`, `Python-Notebooks`, vb.)*
 
 ---
 
@@ -111,17 +107,7 @@ This chart reflects the languages I use most across my GitHub repositories.
 ---
 
 ## 🚀 Projects
-### [AI Agents](https://github.com/SelcukOzdemir23/AI-Agents)
-Exploring autonomous AI agents and task automation with LLMs.  
-**Tech Stack:** Python · LangChain · OpenAI API  
 
-### [Data Visualization](https://github.com/SelcukOzdemir23/Data-Visualization)
-Interactive dashboards and visual storytelling with data.  
-**Tech Stack:** Python · Plotly · Streamlit  
-
-### [Content Automation](https://github.com/SelcukOzdemir23/Content-Automation)
-AI-assisted content generation and research workflows.  
-**Tech Stack:** Python · FastAPI · HuggingFace  
 
 ---
 
@@ -134,18 +120,6 @@ AI-assisted content generation and research workflows.
 
 ---
 
-## 🤝 Contributing
-Contributions are **welcome!**  
-1. Fork this repository  
-2. Create a branch (`git checkout -b feature/YourFeature`)  
-3. Commit your changes (`git commit -m 'Add new feature'`)  
-4. Push to the branch (`git push origin feature/YourFeature`)  
-5. Open a Pull Request  
-
----
-
-## 📜 License
-This profile and content are licensed under the [MIT License](./LICENSE).  
 
 ---
 
