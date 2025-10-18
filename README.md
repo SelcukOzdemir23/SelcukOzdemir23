@@ -1,21 +1,4 @@
-<!--─────────────────────────────────────────────────────────-->
-<!--                      BADGES & STATS                   -->
-<!--─────────────────────────────────────────────────────────-->
-<!-- 🏗️ Durum ve Bilgiler -->
-![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Release](https://img.shields.io/github/v/release/SelcukOzdemir23/SelcukOzdemir23?color=blueviolet)
-![Stars](https://img.shields.io/github/stars/SelcukOzdemir23?style=social)
-![Visitors](https://komarev.com/ghpvc/?username=SelcukOzdemir23&color=blue)
 
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SelcukOzdemir23&theme=gruvbox&no-frame=true&margin-w=5" alt="GitHub Trophies" />
-</p>
-
----
 
 # 👋 Müşerref Selçuk Özdemir
 
@@ -108,5 +91,22 @@ This chart reflects the languages I use most across my GitHub repositories.
 
 ![Selcuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=SelcukOzdemir23&show_icons=true&theme=transparent)
 
+<!--─────────────────────────────────────────────────────────-->
+<!--                      BADGES & STATS                   -->
+<!--─────────────────────────────────────────────────────────-->
+<!-- 🏗️ Durum ve Bilgiler -->
+![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Release](https://img.shields.io/github/v/release/SelcukOzdemir23/SelcukOzdemir23?color=blueviolet)
+![Stars](https://img.shields.io/github/stars/SelcukOzdemir23?style=social)
+![Visitors](https://komarev.com/ghpvc/?username=SelcukOzdemir23&color=blue)
 
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SelcukOzdemir23&theme=gruvbox&no-frame=true&margin-w=5" alt="GitHub Trophies" />
+</p>
+
+---
 
