@@ -1,8 +1,12 @@
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)  
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](#)  
-[![Release](https://img.shields.io/badge/release-v1.0.0-blueviolet.svg)](#)  
-[![Stargazers](https://img.shields.io/github/stars/SelcukOzdemir23/yourrepo.svg?style=social)](#)  
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=SelcukOzdemir23.yourrepo)](#)
+<!--─────────────────────────────────────────────────────────-->
+<!--                      BADGES & STATS                   -->
+<!--─────────────────────────────────────────────────────────-->
+<!-- 🏗️ Durum ve Bilgiler -->
+![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Release](https://img.shields.io/github/v/release/SelcukOzdemir23/<YOUR_REPO>?color=blueviolet)
+![Stars](https://img.shields.io/github/stars/SelcukOzdemir23/<YOUR_REPO>?style=social)
+![Visitors](https://komarev.com/ghpvc/?username=SelcukOzdemir23&color=blue)
 
 # 👋 Müşerref Selçuk Özdemir
 
