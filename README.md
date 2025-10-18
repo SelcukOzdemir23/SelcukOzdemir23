@@ -63,7 +63,6 @@ I’m **Müşerref Selçuk Özdemir**, a software engineer passionate about **AI
 ---
 
 ## 🗣️ Social Media
-| Platform   | Link |
 1. **LinkedIn** [linkedin.com/in/muserref-selcuk-ozdemir](https://www.linkedin.com/in/muserref-selcuk-ozdemir/) 
 2. **GitHub**   [github.com/SelcukOzdemir23](https://github.com/SelcukOzdemir23) 
 3. **GitLab**   [gitlab.com/SelcukOzdemir23](https://gitlab.com/SelcukOzdemir23) 
