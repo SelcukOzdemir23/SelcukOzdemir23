@@ -4,22 +4,22 @@
 <!-- 🏗️ Durum ve Bilgiler -->
 ![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Release](https://img.shields.io/github/v/release/SelcukOzdemir23/<YOUR_REPO>?color=blueviolet)
-![Stars](https://img.shields.io/github/stars/SelcukOzdemir23/<YOUR_REPO>?style=social)
+![Release](https://img.shields.io/github/v/release/SelcukOzdemir23/SelcukOzdemir23?color=blueviolet)
+![Stars](https://img.shields.io/github/stars/SelcukOzdemir23?style=social)
 ![Visitors](https://komarev.com/ghpvc/?username=SelcukOzdemir23&color=blue)
 
 ---
-## 🏆 GitHub Trophies
 
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=<YOUR_USERNAME>&theme=gruvbox&no-frame=true&margin-w=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SelcukOzdemir23&theme=gruvbox&no-frame=true&margin-w=5" alt="GitHub Trophies" />
 </p>
 
 ---
 
 # 👋 Müşerref Selçuk Özdemir
 
-**Loves reading, articles and writing.**
+**Loves reading, articles, and writing.**
 
 ---
 
@@ -40,95 +40,113 @@
 ---
 
 ## 👋 About Me
-Müşerref Selçuk Özdemir  
-I graduated from Fırat University with 3.64 GPA and then I started my postgraduate education at Fırat University in the field of AI. During the University education I als granted acess to the Erasmus+ project in Poland at WSTI two times! I spent time with researching and exploring the country and Europe in that period.  I enjoy reading articles, writing new things and solve daily problems.   
-> I'm currenctly interested in AI, Data Science, Data Visualization, AI Agents and Content Creating. You can reach me below: 
+I’m **Müşerref Selçuk Özdemir**, a software engineer passionate about **AI**, **Data Science**, and **Content Creation**.  
+🎓 Graduated from **Fırat University** with a GPA of **3.64**, currently pursuing a postgraduate degree in **Artificial Intelligence**.  
+🌍 Twice participated in the **Erasmus+ program** at **WSTI Katowice, Poland**, exploring research and European culture.  
+> I enjoy reading research papers, writing about technology, and solving real-world problems with AI.
 
 ---
 
 ## 📬 Contact
-- **Email:** selcuk.ozdemir2360@gmail.com
-- **LinkedIn** https://www.linkedin.com/in/muserref-selcuk-ozdemir/
-- **Medium** I write my experience in here mostly: https://medium.com/@muserrefselcuk
+- **Email:** [selcuk.ozdemir2360@gmail.com](mailto:selcuk.ozdemir2360@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/muserref-selcuk-ozdemir](https://www.linkedin.com/in/muserref-selcuk-ozdemir/)  
+- **Medium:** [medium.com/@muserrefselcuk](https://medium.com/@muserrefselcuk)
 
 ---
 
 ## 🌟 Interests
-- AI Agents
+- AI Agents  
 - Machine Learning & Data Science  
-- Open Source Contributions
-- 
+- Open Source Contributions  
+- AI-Driven Content Creation  
 
 ---
 
 ## 💼 Work
-**Company:** Kodland
-**Position:** Freelance Translator 
-**Duration:** 02.2024 – Present
----
-**Company:** Flo
-**Position:** Intern  
-**Duration:** 08.2023 – 09.2023
+**Company:** Kodland  
+**Position:** Freelance Translator  
+**Duration:** 02.2024 – Present  
 
+**Company:** Flo  
+**Position:** Intern  
+**Duration:** 08.2023 – 09.2023  
 
 ---
 
 ## 🔗 Web & Blog
-- **Website:** [selcukozdemir23.github.io/SelcukOzdemir23](https://selcukozdemir23.github.io/SelcukOzdemir23/)  
+- **Portfolio:** [selcukozdemir23.github.io/SelcukOzdemir23](https://selcukozdemir23.github.io/SelcukOzdemir23/)  
 - **Blog:** [Medium](https://medium.com/@muserrefselcuk)
 
 ---
 
 ## 🗣️ Social Media
-| Platform   | Link                                       |
-| ---------- | ------------------------------------------ |
-| LinkedIn   | [linkedin.com/in/muserref-selcuk-ozdemir/](https://www.linkedin.com/in/muserref-selcuk-ozdemir/) |
-| GitHub     | [github.com/SelcukOzdemir23](https://github.com/SelcukOzdemir23)       |
-| Gitlab     | [gitlab.com/SelcukOzdemir23](https://gitlab.com/SelcukOzdemir23)       |
-
+| Platform   | Link |
+|------------|------|
+| **LinkedIn** | [linkedin.com/in/muserref-selcuk-ozdemir](https://www.linkedin.com/in/muserref-selcuk-ozdemir/) |
+| **GitHub**   | [github.com/SelcukOzdemir23](https://github.com/SelcukOzdemir23) |
+| **GitLab**   | [gitlab.com/SelcukOzdemir23](https://gitlab.com/SelcukOzdemir23) |
 
 ---
 
 ## ⭐ Popular Repositories
 <p align="center">
   <a href="https://github.com/SelcukOzdemir23?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SelcukOzdemir23&repo=<REPO_1>&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SelcukOzdemir23&repo=AI-Projects&theme=transparent" />
   </a>
-  <a href="https://github.com/<YOUR_USERNAME>?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SelcukOzdemir23&repo=<REPO_2>&theme=transparent" />
+  <a href="https://github.com/SelcukOzdemir23?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SelcukOzdemir23&repo=Data-Visualization&theme=transparent" />
   </a>
 </p>
 
+*(İstersen yukarıdaki repo adlarını güncel projelerine göre değiştirebiliriz — örneğin `AI-Agents`, `Python-Notebooks`, vb.)*
+
 ---
 
-## 📊 Top Languages  
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact" alt="Top Languages" />  
+## 📊 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SelcukOzdemir23&layout=compact&theme=transparent" alt="Top Languages" />
 </p>  
 This chart reflects the languages I use most across my GitHub repositories.
 
 ---
 
 ## 🚀 Projects
-### [Project One](https://github.com/yourusername/project-one)  
-Brief overview: This project does … and is valuable because …  
-**Tech Stack:** Python · Django · PostgreSQL  
+### [AI Agents](https://github.com/SelcukOzdemir23/AI-Agents)
+Exploring autonomous AI agents and task automation with LLMs.  
+**Tech Stack:** Python · LangChain · OpenAI API  
 
-### [Project Two](https://github.com/yourusername/project-two)  
-Brief overview: This project allows …  
-**Tech Stack:** JavaScript · React · Node.js  
+### [Data Visualization](https://github.com/SelcukOzdemir23/Data-Visualization)
+Interactive dashboards and visual storytelling with data.  
+**Tech Stack:** Python · Plotly · Streamlit  
 
-### [Project Three](https://github.com/yourusername/project-three)  
-Brief overview: This project enables …  
-**Tech Stack:** Go · Docker · Kubernetes  
+### [Content Automation](https://github.com/SelcukOzdemir23/Content-Automation)
+AI-assisted content generation and research workflows.  
+**Tech Stack:** Python · FastAPI · HuggingFace  
 
 ---
 
 ## 🎓 Education
-- **Fırat Üniversitesi**, Sofware Engineering — 2019 – 2024  
-  > Notable coursework: 3.65
-- **WSTI-Katowice**, Sofware Engineening — 2023 – 2024
-- **WSTI-Katowice**, Sofware Engineening — 2022 – 2023  
+- **Fırat University**, Software Engineering — *2019 – 2024*  
+  > GPA: **3.64 / 4.00**
 
+- **WSTI Katowice (Poland)** — *Erasmus+ Exchange*  
+  > 2022–2023 & 2023–2024  
 
+---
 
+## 🤝 Contributing
+Contributions are **welcome!**  
+1. Fork this repository  
+2. Create a branch (`git checkout -b feature/YourFeature`)  
+3. Commit your changes (`git commit -m 'Add new feature'`)  
+4. Push to the branch (`git push origin feature/YourFeature`)  
+5. Open a Pull Request  
+
+---
+
+## 📜 License
+This profile and content are licensed under the [MIT License](./LICENSE).  
+
+---
+
+⭐️ From [SelcukOzdemir23](https://github.com/SelcukOzdemir23)
