@@ -124,3 +124,6 @@ This chart reflects the languages I use most across my GitHub repositories.
 ---
 
 ⭐️ From [SelcukOzdemir23](https://github.com/SelcukOzdemir23)
+
+![GitHub Contribution Grid Snake Animation](https://github.com/SelcukOzdemir23/SelcukOzdemir23/blob/output/github-contribution-grid-snake.svg)
+
