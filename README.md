@@ -125,6 +125,7 @@ This chart reflects the languages I use most across my GitHub repositories.
 
 ⭐️ From [SelcukOzdemir23](https://github.com/SelcukOzdemir23)
 
-![Metrics](https://github.com/SelcukOzdemir23/SelcukOzdemir23/blob/main/github-metrics.svg)
+![Selcuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=SelcukOzdemir23&show_icons=true&theme=transparent)
+
 
 
