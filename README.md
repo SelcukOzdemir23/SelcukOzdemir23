@@ -21,23 +21,6 @@
 
 **Loves reading, articles, and writing.**
 
----
-
-## 📋 Table of Contents
-- [About Me](#about-me)  
-- [Contact](#contact)  
-- [Interests](#interests)  
-- [Work](#work)  
-- [Web & Blog](#web--blog)  
-- [Social Media](#social-media)  
-- [Popular Repositories](#popular-repositories)  
-- [Top Languages](#top-languages)  
-- [Projects](#projects)  
-- [Education](#education)  
-- [Contributing](#contributing)  
-- [License](#license)  
-
----
 
 ## 👋 About Me
 I’m **Müşerref Selçuk Özdemir**, a software engineer passionate about **AI**, **Data Science**, and **Content Creation**.  
