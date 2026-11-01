@@ -3,7 +3,15 @@
 AI developer in Türkiye. I work on TÜBİTAK funded research and build AI and data driven
 applications — from computer vision models to LLM based systems.
 
-[![Open to work: AI/ML and data science](https://img.shields.io/badge/open_to_work-AI%2FML%20%26%20data%20science-1f6feb?style=flat-square)](#links)
+[![Open to work: AI/ML, data science and software](https://img.shields.io/badge/open_to_work-AI%2FML%2C%20data%20science%20%26%20software-1f6feb?style=flat-square)](mailto:selcuk.ozdemir2360@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/portfolio-1f6feb?style=flat-square)](https://selcukozdemir23.github.io/portfolio/en/)
+[![CV](https://img.shields.io/badge/cv-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://selcukozdemir23.github.io/portfolio/M%C3%BC%C5%9FerrefSel%C3%A7uk%C3%96zdemirCV.pdf)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muserref-selcuk-ozdemir/)
+[![Medium](https://img.shields.io/badge/medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@muserrefselcuk)
+[![GitLab](https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/SelcukOzdemir23)
+[![Linktree](https://img.shields.io/badge/linktree-43E55E?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/muserrefselcukozdemir)
+[![Email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:selcuk.ozdemir2360@gmail.com)
 
 ## About
 
@@ -30,41 +38,20 @@ Names link to the live app where there is one, otherwise to the repository. The 
 17 projects, from RetroTV and LibreWake to EvoPrompt and BestShots — is on
 [the portfolio](https://selcukozdemir23.github.io/portfolio/en/work/).
 
-## Toolbox
+## GitHub
 
-| Area | Tools |
-| :--- | :--- |
-| **AI and data** | `python` `pytorch` `tensorflow` `keras` `scikit-learn` `pandas` `opencv` `llm apps` `rag` |
-| **Web and mobile** | `typescript` `react` `next.js` `svelte` `astro` `tailwind css` `react native` |
-| **Tools** | `git` `docker` `linux` `fastapi` `streamlit` `firebase` `latex` |
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SelcukOzdemir23&amp;theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SelcukOzdemir23&amp;theme=github" alt="Contributions in the last year, public repositories and account age" />
+  </picture>
+</p>
 
-## Experience
-
-| When | Role | Where |
-| :--- | :--- | :--- |
-| 2025 – present | Bursary researcher, LLM and RAG literature analysis | TÜBİTAK 1002-A |
-| 2025 – present | AI developer, freelance | Self-employed |
-| 2026 | Intern, technical support and research (Erasmus+) | WSTI Katowice |
-| 2024 – 2025 | Translator, educational content | Kodland |
-| 2024 – 2025 | Python tutor for ages 10–17 | Kodland |
-| 2023 | Intern | FLO |
-
-## Education
-
-| When | Programme | Where |
-| :--- | :--- | :--- |
-| 2024 – present | MSc Artificial Intelligence | Fırat University |
-| 2019 – 2024 | BSc Software Engineering, GPA 3.65 / 4.00 | Fırat University |
-| 2023, 2024 | Erasmus+ exchange, two terms | WSTI Katowice, Poland |
-
-## Links
-
-[Portfolio](https://selcukozdemir23.github.io/portfolio/en/) ·
-[CV](https://selcukozdemir23.github.io/portfolio/M%C3%BC%C5%9FerrefSel%C3%A7uk%C3%96zdemirCV.pdf) ·
-[LinkedIn](https://www.linkedin.com/in/muserref-selcuk-ozdemir/) ·
-[Medium](https://medium.com/@muserrefselcuk) ·
-[GitLab](https://gitlab.com/SelcukOzdemir23) ·
-[Linktree](https://linktr.ee/muserrefselcukozdemir) ·
-[Email](mailto:selcuk.ozdemir2360@gmail.com)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SelcukOzdemir23&amp;theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SelcukOzdemir23&amp;theme=github" alt="Top languages by repository" />
+  </picture>
+</p>
 
 Turkish native, English B2. Based in Amasya, Türkiye.
