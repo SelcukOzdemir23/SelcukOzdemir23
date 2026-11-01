@@ -1,112 +1,70 @@
+# Müşerref Selçuk Özdemir
 
+AI developer in Türkiye. I work on TÜBİTAK funded research and build AI and data driven
+applications — from computer vision models to LLM based systems.
 
-# 👋 Müşerref Selçuk Özdemir
+[![Open to work: AI/ML and data science](https://img.shields.io/badge/open_to_work-AI%2FML%20%26%20data%20science-1f6feb?style=flat-square)](#links)
 
-**Loves reading, articles, and writing.**
+## About
 
+Master's student in artificial intelligence at Fırat University. I currently work as a
+bursary researcher on a TÜBİTAK 1002-A project, building the data processing and model
+pipeline of an LLM and RAG system that scans supercapacitor literature.
 
-## 👋 About Me
-I’m **Müşerref Selçuk Özdemir**, a software engineer passionate about **AI**, **Data Science**, and **Content Creation**.  
-🎓 Graduated from **Fırat University** with a GPA of **3.64**, currently pursuing a postgraduate degree in **Artificial Intelligence**.  
-🌍 Twice participated in the **Erasmus+ program** at **WSTI Katowice, Poland**, exploring research and European culture.  
-> I enjoy reading research papers, writing about technology, and solving real-world problems with AI.
+I graduated in software engineering in 2024 and spent two terms in Katowice, Poland on
+Erasmus+, which is where I learned to do research with international teams. When I am not
+writing code, I write about books, technology and software on Medium.
 
----
+## Featured work
 
-## 📬 Contact
-- **Email:** [selcuk.ozdemir2360@gmail.com](mailto:selcuk.ozdemir2360@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/muserref-selcuk-ozdemir](https://www.linkedin.com/in/muserref-selcuk-ozdemir/)  
-- **Medium:** [medium.com/@muserrefselcuk](https://medium.com/@muserrefselcuk)
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| **[EcoSat-Analyzer](https://huggingface.co/spaces/muserrefselcukozdemir/EcoSat-Analyzer)** | Splits satellite and aerial imagery into buildings, woodland, water and roads | `python` `pytorch` `u-net` `docker` |
+| **[Gold-Sense AI](https://gold-sense-cerebras.streamlit.app/)** | Reads financial news with language models and estimates the effect on the gold market | `python` `dspy` `llm` `streamlit` |
+| **[SEM Image Classification](https://semimageclassification.streamlit.app/)** | Sorts electron microscope images of nanomaterials into four classes | `tensorflow` `scikit-learn` |
+| **[BrushInsight](https://huggingface.co/spaces/muserrefselcukozdemir/brushinsight)** | Tells ten painters apart with ResNet-50 and shows its reasoning with Grad-CAM heat maps | `tensorflow` `resnet-50` |
+| **[AtaDey](https://selcukozdemir23.github.io/atadey/)** | Game site built on Turkish idioms and proverbs, covered by Vitest tests | `react` `vite` `vitest` |
+| **[Course resources](https://github.com/SelcukOzdemir23/Firat-Universitesi-Kaynaklar)** ![stars](https://img.shields.io/github/stars/SelcukOzdemir23/Firat-Universitesi-Kaynaklar?style=flat-square&label=%E2%98%85&color=555) | Lecture notes archive for the software engineering department | `jupyter` `python` |
 
----
+Names link to the live app where there is one, otherwise to the repository. The full set —
+17 projects, from RetroTV and LibreWake to EvoPrompt and BestShots — is on
+[the portfolio](https://selcukozdemir23.github.io/portfolio/en/work/).
 
-## 🌟 Interests
-- AI Agents  
-- Machine Learning & Data Science  
-- Open Source Contributions  
-- AI-Driven Content Creation  
+## Toolbox
 
----
+| Area | Tools |
+| :--- | :--- |
+| **AI and data** | `python` `pytorch` `tensorflow` `keras` `scikit-learn` `pandas` `opencv` `llm apps` `rag` |
+| **Web and mobile** | `typescript` `react` `next.js` `svelte` `astro` `tailwind css` `react native` |
+| **Tools** | `git` `docker` `linux` `fastapi` `streamlit` `firebase` `latex` |
 
-## 💼 Work
-**Company:** Kodland  
-**Position:** Freelance Translator  
-**Duration:** 02.2024 – Present  
+## Experience
 
-**Company:** Flo  
-**Position:** Intern  
-**Duration:** 08.2023 – 09.2023  
+| When | Role | Where |
+| :--- | :--- | :--- |
+| 2025 – present | Bursary researcher, LLM and RAG literature analysis | TÜBİTAK 1002-A |
+| 2025 – present | AI developer, freelance | Self-employed |
+| 2026 | Intern, technical support and research (Erasmus+) | WSTI Katowice |
+| 2024 – 2025 | Translator, educational content | Kodland |
+| 2024 – 2025 | Python tutor for ages 10–17 | Kodland |
+| 2023 | Intern | FLO |
 
----
+## Education
 
-## 🔗 Web & Blog
-- **Portfolio:** [selcukozdemir23.github.io/SelcukOzdemir23](https://selcukozdemir23.github.io/SelcukOzdemir23/)  
-- **Blog:** [Medium](https://medium.com/@muserrefselcuk)
+| When | Programme | Where |
+| :--- | :--- | :--- |
+| 2024 – present | MSc Artificial Intelligence | Fırat University |
+| 2019 – 2024 | BSc Software Engineering, GPA 3.65 / 4.00 | Fırat University |
+| 2023, 2024 | Erasmus+ exchange, two terms | WSTI Katowice, Poland |
 
----
+## Links
 
-## 🗣️ Social Media
-1. **LinkedIn** [linkedin.com/in/muserref-selcuk-ozdemir](https://www.linkedin.com/in/muserref-selcuk-ozdemir/) 
-2. **GitHub**   [github.com/SelcukOzdemir23](https://github.com/SelcukOzdemir23) 
-3. **GitLab**   [gitlab.com/SelcukOzdemir23](https://gitlab.com/SelcukOzdemir23) 
+[Portfolio](https://selcukozdemir23.github.io/portfolio/en/) ·
+[CV](https://selcukozdemir23.github.io/portfolio/M%C3%BC%C5%9FerrefSel%C3%A7uk%C3%96zdemirCV.pdf) ·
+[LinkedIn](https://www.linkedin.com/in/muserref-selcuk-ozdemir/) ·
+[Medium](https://medium.com/@muserrefselcuk) ·
+[GitLab](https://gitlab.com/SelcukOzdemir23) ·
+[Linktree](https://linktr.ee/muserrefselcukozdemir) ·
+[Email](mailto:selcuk.ozdemir2360@gmail.com)
 
----
-
-## ⭐ Popular Repositories
-<p align="center">
-  <a href="https://github.com/SelcukOzdemir23">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SelcukOzdemir23&repo=SelcukOzdemir23&theme=transparent" />
-  </a>
-</p>
-
-
----
-
-## 📊 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SelcukOzdemir23&layout=compact&theme=transparent" alt="Top Languages" />
-</p>  
-This chart reflects the languages I use most across my GitHub repositories.
-
----
-
-## 🚀 Projects
-
-
----
-
-## 🎓 Education
-- **Fırat University**, Software Engineering — *2019 – 2024*  
-  > GPA: **3.64 / 4.00**
-
-- **WSTI Katowice (Poland)** — *Erasmus+ Exchange*  
-  > 2022–2023 & 2023–2024  
-
----
-
-
----
-
-⭐️ From [SelcukOzdemir23](https://github.com/SelcukOzdemir23)
-
-![Selcuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=SelcukOzdemir23&show_icons=true&theme=transparent)
-
-<!--─────────────────────────────────────────────────────────-->
-<!--                      BADGES & STATS                   -->
-<!--─────────────────────────────────────────────────────────-->
-<!-- 🏗️ Durum ve Bilgiler -->
-![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Release](https://img.shields.io/github/v/release/SelcukOzdemir23/SelcukOzdemir23?color=blueviolet)
-![Stars](https://img.shields.io/github/stars/SelcukOzdemir23?style=social)
-![Visitors](https://komarev.com/ghpvc/?username=SelcukOzdemir23&color=blue)
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SelcukOzdemir23&theme=gruvbox&no-frame=true&margin-w=5" alt="GitHub Trophies" />
-</p>
-
----
-
+Turkish native, English B2. Based in Amasya, Türkiye.
