@@ -1,3 +1,5 @@
+[![Personal website: selcukozdemir23.github.io/portfolio](https://img.shields.io/badge/personal%20website-selcukozdemir23.github.io%2Fportfolio-1f6feb?style=flat-square&logo=githubpages&logoColor=white)](https://selcukozdemir23.github.io/portfolio/en/)
+
 # Müşerref Selçuk Özdemir
 
 AI developer in Türkiye. I work on TÜBİTAK funded research and build AI and data driven
@@ -5,7 +7,6 @@ applications — from computer vision models to LLM based systems.
 
 [![Open to work: AI/ML, data science and software](https://img.shields.io/badge/open_to_work-AI%2FML%2C%20data%20science%20%26%20software-1f6feb?style=flat-square)](mailto:selcuk.ozdemir2360@gmail.com)
 
-[![Portfolio](https://img.shields.io/badge/portfolio-1f6feb?style=flat-square)](https://selcukozdemir23.github.io/portfolio/en/)
 [![CV](https://img.shields.io/badge/cv-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://selcukozdemir23.github.io/portfolio/M%C3%BC%C5%9FerrefSel%C3%A7uk%C3%96zdemirCV.pdf)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muserref-selcuk-ozdemir/)
 [![Medium](https://img.shields.io/badge/medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@muserrefselcuk)
