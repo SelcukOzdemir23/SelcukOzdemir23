@@ -19,14 +19,31 @@
 
 ## About
 
-Master's student in artificial intelligence at Fırat University. I currently work as a
-bursary researcher on a TÜBİTAK 1002-A project, building the data processing and model
-pipeline of an LLM and RAG system that scans supercapacitor literature.
+Master's student in artificial intelligence at Fırat University. I currently work as a bursary researcher on a TÜBİTAK 1002-A project, building the data processing and model pipeline of an LLM and RAG system that scans supercapacitor literature.
 
-I graduated in software engineering in 2024 and spent two terms in Katowice, Poland on
-Erasmus+, which is where I learned to do research with international teams. When I am not
-writing code, I write about books, technology and software on Medium. Turkish native,
-English B2, based in Amasya, Türkiye.
+I graduated in software engineering in 2024 and spent two terms in Katowice, Poland on Erasmus+. Turkish native, English B2, based in Amasya, Türkiye.
+
+## Work
+
+A small selection of what I'm building. All open source on GitHub.
+
+### [AtaDey](https://github.com/SelcukOzdemir23/atadey)
+
+Game site built around Turkish idioms and proverbs from the TDK dictionary. Covered by Vitest tests and live.
+
+`react` `vite` `tailwind` `vitest` · [live site](https://selcukozdemir23.github.io/atadey/) · [github](https://github.com/SelcukOzdemir23/atadey)
+
+### [RetroTV](https://github.com/SelcukOzdemir23/retrotv)
+
+Web app that plays public IPTV channels from around the world through a vintage CRT television experience. Scanlines, static noise between channels and a remote control panel.
+
+`astro` `svelte` `typescript` `hls.js` · [live site](https://selcukozdemir23.github.io/retrotv/) · [github](https://github.com/SelcukOzdemir23/retrotv)
+
+### [Shelf](https://github.com/SelcukOzdemir23/shelf)
+
+An independent, static catalogue of open-source apps that ship GitHub releases.
+
+`astro` · [live site](https://selcukozdemir23.github.io/shelf/) · [github](https://github.com/SelcukOzdemir23/shelf)
 
 ## GitHub
 
