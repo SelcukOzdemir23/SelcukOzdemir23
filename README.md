@@ -45,6 +45,12 @@ An independent, static catalogue of open-source apps that ship GitHub releases.
 
 `astro` · [live site](https://selcukozdemir23.github.io/shelf/) · [github](https://github.com/SelcukOzdemir23/shelf)
 
+### [KalkKıl](https://github.com/SelcukOzdemir23/KalkKil)
+
+Mobile app that calculates prayer times offline using the Diyanet method. Includes a live countdown, notifications, a home screen widget and a qibla compass.
+
+`react native` `typescript` `adhan` `kotlin` · [github](https://github.com/SelcukOzdemir23/KalkKil)
+
 ## GitHub
 
 <p align="center">
